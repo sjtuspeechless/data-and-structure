@@ -1,2 +1,2 @@
-# data-and-structure
-just have a test
+# data structure
+to store my codes for the course data structure
